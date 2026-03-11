@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /c/Sviluppo/TV/EasyProxy -type f -name \"*.md\" -o -name \"*.json\" -o -name \"*.env*\" -o -name \"Dockerfile*\" -o -name \"docker-compose*\" 2>/dev/null | head -20)",
+      "Bash(find /c/Sviluppo/TV/tvvoo-main -type f \\\\\\( -name \"*.ts\" -o -name \"*.js\" \\\\\\) | xargs wc -l | sort -n | tail -20)"
+    ]
+  }
+}
