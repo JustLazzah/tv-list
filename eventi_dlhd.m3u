@@ -2,33 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecpergolettesevsunionarzignanochiampo" tvg-name="All Soccer Events | Italy - Serie C : Pergolettese vs Union ArzignanoChiampo (18:30)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Union_ArzignanoChiampo.png/revision/latest?cb=20161031220657" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pergolettese vs Union ArzignanoChiampo (18:30)
-https://dlhd.dad/watch.php?id=170
-
-#EXTINF:-1 tvg-id="italyseriecospitalettovstrento" tvg-name="All Soccer Events | Italy - Serie C : Ospitaletto vs Trento (18:30)" tvg-logo="https://raw.githubusercontent.com/JustLazzah/tv-list/main/logos/Ospitaletto_vs_Trento.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ospitaletto vs Trento (18:30)
-https://dlhd.dad/watch.php?id=168
-
-#EXTINF:-1 tvg-id="italyserieclivornovsathleticcarpi" tvg-name="All Soccer Events | Italy - Serie C : Livorno vs Athletic Carpi (18:30)" tvg-logo="https://raw.githubusercontent.com/JustLazzah/tv-list/main/logos/Livorno_vs_Athletic Carpi.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Livorno vs Athletic Carpi (18:30)
-https://dlhd.dad/watch.php?id=169
-
-#EXTINF:-1 tvg-id="italyseriecpontederavsnuovamonterosi" tvg-name="All Soccer Events | Italy - Serie C : Pontedera vs Nuova Monterosi (18:30)" tvg-logo="https://raw.githubusercontent.com/JustLazzah/tv-list/main/logos/Pontedera_vs_Nuova Monterosi.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pontedera vs Nuova Monterosi (18:30)
-https://dlhd.dad/watch.php?id=167
-
-#EXTINF:-1 tvg-id="italyseriecvispesarovsternana" tvg-name="All Soccer Events | Italy - Serie C : Vis Pesaro vs Ternana (18:30)" tvg-logo="https://raw.githubusercontent.com/JustLazzah/tv-list/main/logos/Vis Pesaro_vs_Ternana.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Vis Pesaro vs Ternana (18:30)
-https://dlhd.dad/watch.php?id=166
-
-#EXTINF:-1 tvg-id="italyserieanapolivslecce" tvg-name="All Soccer Events | Italy - Serie A : Napoli vs Lecce (19:00)" tvg-logo="https://raw.githubusercontent.com/JustLazzah/tv-list/main/logos/Napoli_vs_Lecce.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Napoli vs Lecce (19:00)
-https://dlhd.dad/watch.php?id=877
-
-#EXTINF:-1 tvg-id="englandpremierleaguechelseavsnewcastleunited" tvg-name="All Soccer Events | England - Premier League : Chelsea vs Newcastle United (19:30)" tvg-logo="https://raw.githubusercontent.com/JustLazzah/tv-list/main/logos/Chelsea_vs_Newcastle United.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Chelsea vs Newcastle United (19:30)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="englandpremierleaguearsenalvseverton" tvg-name="All Soccer Events | England - Premier League : Arsenal vs Everton (19:30)" tvg-logo="https://wallpapercave.com/wp/wp7422193.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Arsenal vs Everton (19:30)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="germanybundesligahamburgersvvsköln" tvg-name="All Soccer Events | Germany - Bundesliga : Hamburger SV vs Köln (19:30)" tvg-logo="https://raw.githubusercontent.com/JustLazzah/tv-list/main/logos/Hamburger SV_vs_Köln.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Hamburger SV vs Köln (19:30)
-https://dlhd.dad/watch.php?id=460
-
 #EXTINF:-1 tvg-id="italyseriebsampdoriavsvenezia" tvg-name="All Soccer Events | Italy - Serie B : Sampdoria vs Venezia (20:30)" tvg-logo="https://raw.githubusercontent.com/JustLazzah/tv-list/main/logos/Sampdoria_vs_Venezia.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Sampdoria vs Venezia (20:30)
 https://dlhd.dad/watch.php?id=152
 
@@ -38,24 +11,15 @@ https://dlhd.dad/watch.php?id=168
 #EXTINF:-1 tvg-id="italyseriecsambenedettesevscampobasso" tvg-name="All Soccer Events | Italy - Serie C : Sambenedettese vs Campobasso (21:30)" tvg-logo="https://raw.githubusercontent.com/JustLazzah/tv-list/main/logos/Sambenedettese_vs_Campobasso.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Sambenedettese vs Campobasso (21:30)
 https://dlhd.dad/watch.php?id=169
 
-#EXTINF:-1 tvg-id="italyserieaudinesevsjuventus" tvg-name="All Soccer Events | Italy - Serie A : Udinese vs Juventus (21:45)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Udinese vs Juventus (21:45)
+#EXTINF:-1 tvg-id="italyserieaudinesevsjuventus" tvg-name="All Soccer Events | Italy - Serie A : Udinese vs Juventus (21:45)" tvg-logo="https://www.lfootball.it/wp-content/uploads/2020/12/Juventus_Logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Udinese vs Juventus (21:45)
 https://dlhd.dad/watch.php?id=166
 
-#EXTINF:-1 tvg-id="italyserieaudinesevsjuventus" tvg-name="All Soccer Events | Italy - Serie A : Udinese vs Juventus (21:45)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Udinese vs Juventus (21:45)
+#EXTINF:-1 tvg-id="italyserieaudinesevsjuventus" tvg-name="All Soccer Events | Italy - Serie A : Udinese vs Juventus (21:45)" tvg-logo="https://www.lfootball.it/wp-content/uploads/2020/12/Juventus_Logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Udinese vs Juventus (21:45)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="italyserieaudinesevsjuventus" tvg-name="All Soccer Events | Italy - Serie A : Udinese vs Juventus (21:45)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Udinese vs Juventus (21:45)
+#EXTINF:-1 tvg-id="italyserieaudinesevsjuventus" tvg-name="All Soccer Events | Italy - Serie A : Udinese vs Juventus (21:45)" tvg-logo="https://www.lfootball.it/wp-content/uploads/2020/12/Juventus_Logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Udinese vs Juventus (21:45)
 https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="atpwta1000indianwells" tvg-name="Tennis | ATP/WTA 1000: Indian Wells (20:00)" tvg-logo="https://nordsip.com/wp-content/uploads/2024/10/Logo-black-1000.png" group-title="Eventi Live DLHD",Tennis | ATP/WTA 1000: Indian Wells (20:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="sixnationswalesvsitaly" tvg-name="Rugby Union | Six Nations : Wales vs Italy (18:40)" tvg-logo="https://raw.githubusercontent.com/JustLazzah/tv-list/main/logos/Wales_vs_Italy.png" group-title="Eventi Live DLHD",Rugby Union | Six Nations : Wales vs Italy (18:40)
-https://dlhd.dad/watch.php?id=161
 
 #EXTINF:-1 tvg-id="sixnationsfrancevsengland" tvg-name="Rugby Union | Six Nations : France vs England (22:10)" tvg-logo="https://raw.githubusercontent.com/JustLazzah/tv-list/main/logos/France_vs_England.png" group-title="Eventi Live DLHD",Rugby Union | Six Nations : France vs England (22:10)
 https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="valsaintcômeparallelmirrorslalomworldcupmenandwomen" tvg-name="Winter Sports | Val Saint-Côme | Parallel Mirror Slalom World Cup | Men and Women (19:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Winter Sports | Val Saint-Côme | Parallel Mirror Slalom World Cup | Men and Women (19:45)
-https://dlhd.dad/watch.php?id=878
 
